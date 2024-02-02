@@ -1,0 +1,5 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\TaskController.class
+com\example\restservice\CreateTaskForm.class
+com\example\restservice\RedirectController.class
+com\example\restservice\Task.class
